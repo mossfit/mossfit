@@ -30,6 +30,7 @@ I'm a MSc. Software, AI Security Researcher, and GenAI Vulnerability Analyst wit
 ---
 
 ## Skills & Technologies
+![alt text](https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
