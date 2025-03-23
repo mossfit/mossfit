@@ -30,7 +30,7 @@ I'm a MSc. Software, AI Security Researcher, and GenAI Vulnerability Analyst wit
 ---
 
 ## Skills & Technologies
-![alt text](https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif)
+![alt text](https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -57,11 +57,10 @@ I'm a MSc. Software, AI Security Researcher, and GenAI Vulnerability Analyst wit
 
 - **Coffee & Code**  
   Much like a fine experiment, my best ideas often start with a strong cup of coffee and a spark of curiosity.
-
 ---
 
 ## Let's Connect
-
+![alt text](https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif)
 - **Portfolio:** [resume-rho-peach.vercel.app](https://resume-rho-peach.vercel.app/)
 - **GitHub:** [mossfit](https://github.com/mossfit)
 - **Website:** [mossfit.github.io](https://mossfit.github.io/)
