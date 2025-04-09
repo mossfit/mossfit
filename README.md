@@ -59,7 +59,7 @@ I'm a MSc. Software, AI Security Researcher, and GenAI Vulnerability Analyst wit
 ---
 
 ## Let's Connect
-![alt text](https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif)
+![alt text](https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif)
 - **Portfolio:** [portfolio](https://mossfit.github.io/)
 - **GitHub:** [Github](https://github.com/mossfit)
 - **LinkedIn:** [LinkedIn](www.linkedin.com/in/mainak-basak-767ba6324)
