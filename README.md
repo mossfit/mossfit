@@ -3,7 +3,7 @@
 
 # Hi there, I'm Mainak 👋
 
-I'm a MSc. Software, AI Security Researcher, and GenAI Vulnerability Analyst with a passion for unraveling the mysteries of digital threats—think of me as a scientific detective in the wild frontier of code!
+I'm a PhD. in AI Software, and work in domains concerning AI Security, and GenAI Vulnerability Analyst with a passion for unraveling the mysteries of digital threats~think of me as a scientific detective in the wild frontier of code!
 
 ---
 
