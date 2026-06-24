@@ -1,7 +1,7 @@
 ![alt text](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
 
-# Hi there, I'm Mainak 👋
+# Hi there 👋
 
 I'm a PhD. in AI Software, and work in domains concerning AI Security, and GenAI Vulnerability Analyst with a passion for unraveling the mysteries of digital threats~think of me as a scientific detective in the wild frontier of code!
 
@@ -60,9 +60,6 @@ I'm a PhD. in AI Software, and work in domains concerning AI Security, and GenAI
 
 ## Let's Connect
 ![alt text](https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif)
-- **Portfolio:** [portfolio](https://mossfit.github.io/)
-- **GitHub:** [Github](https://github.com/mossfit)
-- **LinkedIn:** [LinkedIn](www.linkedin.com/in/mainak-basak-767ba6324)
 
 
 ---
